@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Janaki B. Kurup! 👋
 
-<!--
-**janakibkurup/janakibkurup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2nd Year B.Tech CSE (Data Science) Student | Aspiring Data Scientist | Millennium Fellow '26
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering student specialising in Data Science who is interested in exploring technology, solving problems and building meaningful projects.
+
+### 👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in CSE (Data Science)
+- 🌱 Currently learning Python, SQL, Data Analytics and Software Development
+- 💡 Interested in Data Science, Artificial Intelligence and Software Engineering
+- 🌍 Millennium Fellowship Class of 2026
+- 🚀 Exploring new technologies and building projects to strengthen my skills
+
+### 🛠️ Technologies & Tools
+
+- **Programming:** Python, C
+- **Database:** Oracle SQL
+- **Data Science:** NumPy, Pandas
+- **Tools:** GitHub, Jupyter Notebook
+
+### 📌 Projects
+
+ I'm currently working on projects and building my developer portfolio.
+
+### 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/janaki-b-kurup-9b16ab376/
+
+---
+
+*Learning, building and growing one project at a time.*
